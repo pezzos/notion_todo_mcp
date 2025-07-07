@@ -2,9 +2,8 @@
 name = "notion_mcp"
 version = "0.1.0"
 description = "Notion MCP integration for todo lists"
-requires-python = ">=3.10"
+requires-python = ">=3.9"
 dependencies = [
-    "mcp",
     "httpx",
     "python-dotenv"
 ]
